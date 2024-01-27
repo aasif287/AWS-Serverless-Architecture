@@ -149,11 +149,12 @@ Validating the processed file involves verifying that the uploaded image trigger
 
    - <img width="1006" alt="Screenshot 2024-01-26 200916" src="https://github.com/aasif287/AWS-Serverless-Architecture/assets/155476415/dc499cc2-ec3b-4e18-9070-3a0d5e393101">
    - <img width="859" alt="Screenshot 2024-01-26 201049" src="https://github.com/aasif287/AWS-Serverless-Architecture/assets/155476415/30a7fd88-f6b9-49ec-b25a-40dc861a4f65">
+   
+
+   
+3. **Validating S3 Bucket Contents (Task 6.2):** I navigated to the S3 bucket to verify the presence of resized images in the designated folders, confirming successful image processing by the Lambda functions.
    - <img width="298" alt="Screenshot 2024-01-26 201412" src="https://github.com/aasif287/AWS-Serverless-Architecture/assets/155476415/833f1387-b73e-421e-b2be-d7fa91692449">
    - <img width="347" alt="Screenshot 2024-01-26 201418" src="https://github.com/aasif287/AWS-Serverless-Architecture/assets/155476415/0bbe376d-6ad3-4b4f-a57d-c087922299e1">
 
 
 
-
-   
-3. **Validating S3 Bucket Contents (Task 6.2):** I navigated to the S3 bucket to verify the presence of resized images in the designated folders, confirming successful image processing by the Lambda functions.
